@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Java Myanmar</string>
+    <string name="action_settings">About Us</string>
+    <string name="exit_greeting">Press back key to exit</string>
+
+
+
+    <string name="pdf_url">java_mm.pdf</string>
+
+
+    <!-- ads code -->
+    <!-- test ads app id : ca-app-pub-3940256099942544~3347511713 -->
+    <string name="ads_app_id">ca-app-pub-4864304355860813~3858487174</string>
+    <!-- test banner code ca-app-pub-3940256099942544/6300978111 -->
+    <string name="banner1">ca-app-pub-4864304355860813/6293078829</string>
+    <!-- test  interstitials ca-app-pub-3940256099942544/1033173712 -->
+    <string name="interstitial1">ca-app-pub-4864304355860813/3666915482</string>
+
+
+</resources>
